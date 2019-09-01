@@ -12,7 +12,8 @@ LinearLayouts and we will even them out over the screen by adding the layout_wei
 Our player points and reset button will be in a RelativeLayout.
 
 
-### Lets play Tic Tac Toe!
-Enter the coordinates for where you want to move
+### Lets play Tic Tac Toe!!!
+
+Enter the coordinates for where you want to move,
 Ex: '0' would move you to the 1st column, 1st row,
 
