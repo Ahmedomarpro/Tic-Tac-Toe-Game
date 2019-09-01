@@ -17,3 +17,4 @@ Our player points and reset button will be in a RelativeLayout.
 Enter the coordinates for where you want to move,
 Ex: '0' would move you to the 1st column, 1st row,
 
+![giphy](https://user-images.githubusercontent.com/22521791/64082659-adc53a00-cd12-11e9-8fe4-4543c68a04f7.gif)
