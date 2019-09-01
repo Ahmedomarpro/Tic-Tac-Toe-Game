@@ -1,5 +1,5 @@
 ## Tic-Tac-Toe-Game
-#INFO
+# INFO
 
 create an offline 2 player Tic Tac Toe game.
 We will code the whole game logic, 
